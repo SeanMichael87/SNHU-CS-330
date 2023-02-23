@@ -13,12 +13,14 @@ Computer Graphics and Visualization
     really works well for my code, and how it all fits together. Using the lessons I had for this project 
     will help become a better developer. 
         
-        When I first approached this project I wanted to make my main focus on providing code that I could easily update. This is especially important
-    as I worked through lessons and needed to fit the necessary functions into my program. For instance, I spent a lot of time in my shapes class each week, updating
-    the necessary vertices for texture of the normals. The vectors I had developed were easily updated to accomodate this new functionality and made it 
-    easy to create the items in my world. Overall, it simply took me longer to truly understand the new topics than actually developing the code to implement.
-    There is always room for improvement and growth, but I feel I have built a solid foundation given my limited experience with OpenGL/GLSL. 
+        When I first approached this project I wanted to make my main focus on providing code that I could easily 
+    update. This is especially important as I worked through lessons and needed to fit the necessary functions into 
+    my program. For instance, I spent a lot of time in my shapes class each week, updating the necessary vertices for 
+    texture of the normals. The vectors I had developed were easily updated to accomodate this new functionality and made it 
+    easy to create the items in my world. Overall, it simply took me longer to truly understand the new topics than 
+    actually developing the code to implement. There is always room for improvement and growth, but I feel I have built 
+    a solid foundation given my limited experience with OpenGL/GLSL. 
     
-        Learning and developing this project has been one of my most favorite experiences so far in my programming journey. From start to finish I learned
-    so much that will help me in my educational and professional career. I hope to gain more experience such as this one because I learned so much in 
-    such a short amount of time. 
+        Learning and developing this project has been one of my most favorite experiences so far in my programming journey. 
+    From start to finish I learned so much that will help me in my educational and professional career. I hope to gain more 
+    experience such as this one because I learned so much in such a short amount of time. 
